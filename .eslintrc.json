@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "no-undef": "off"
+  },
+  "extends": [
+    "eslint:recommended",
+    "angular"
+  ]
+}
